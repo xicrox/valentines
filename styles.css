@@ -77,8 +77,8 @@ body {
   align-items: center;
 }
 .gif_container img {
-  width: 300px; /* Set the width */
-  height: auto; /* Maintain aspect ratio */
+  width: 300px;
+  height: auto; 
   border-radius: 15px;
 }
 p {
